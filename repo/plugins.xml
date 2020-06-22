@@ -1,0 +1,69 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+    <plugins>
+        <pyqgis_plugin name="Checklist checker" version="0.1.0">
+            <description><![CDATA[]]></description>
+            <about><![CDATA[# QGIS Checklist checker
+
+A QGIS3 plugin for checking checklists
+
+## Install
+
+This plugin can be installed directly by QGIS. For now it is distributed by means of a custom plugin repository. In 
+order to install it you need to add the repository to QGIS' plugin manager 
+(_Plugins -> Manage and Install Plugins... -> Settings -> Plugin repositories -> Add..._). The
+repo's URL is:
+
+https://kartoza.github.io/qgis_checklist_checker/repo/plugins.xml
+
+After adding the plugin repo, the plugin manager will refresh its list of plugins automatically. Now search for a 
+plugin called `Checklist checker` and install it.
+
+
+## Development
+
+This plugin uses [pipenv] and [paver] for development.
+
+An easy way to get started is to (fork and) clone this repo, install pipenv 
+and `pipenv install --dev` it!
+
+
+### Installing locally
+
+Call the `install` task:
+
+```
+
+```
+
+### Publishing a new version
+
+TBD
+
+[pipenv]: https://pipenv.pypa.io/en/latest/
+[paver]: https://pythonhosted.org/Paver/index.html
+
+
+## Attribution
+
+This plugin uses icons from the [Font Awesome] project. Icons are used as-is, without any modification, 
+in accordance with their [license]
+
+[Font Awesome]: https://fontawesome.com/
+[license]: https://fontawesome.com/license
+]]></about>
+            <version>0.1.0</version>
+            <qgis_minimum_version>3.10</qgis_minimum_version>
+            <homepage><![CDATA[https://github.com/kartoza/qgis_checklist_checker]]></homepage>
+            <file_name>checklist_checker.zip</file_name>
+            <icon>../resources/icon.png</icon>
+            <author_name><![CDATA[Ricardo Garcia Silva / Kartoza]]></author_name>
+            <download_url>https://kartoza.github.io/qgis_checklist_checker/repo/checklist_checker.zip</download_url>
+            <update_date>2020-06-22 09:09:28.996292+00:00</update_date>
+            <experimental>True</experimental>
+            <deprecated>False</deprecated>
+            <tracker><![CDATA[]]></tracker>
+            <repository><![CDATA[]]></repository>
+            <tags><![CDATA[checklist, check, validate, quality, control, qa, qc]]></tags>
+            <server>False</server>
+        </pyqgis_plugin>
+    </plugins>
