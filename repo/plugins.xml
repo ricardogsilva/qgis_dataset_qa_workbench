@@ -58,7 +58,7 @@ in accordance with their [license]
             <icon>../resources/icon.png</icon>
             <author_name><![CDATA[Ricardo Garcia Silva / Kartoza]]></author_name>
             <download_url>https://kartoza.github.io/qgis_checklist_checker/repo/checklist_checker.zip</download_url>
-            <update_date>2020-06-24 16:54:51.397075+00:00</update_date>
+            <update_date>2020-06-24 16:55:06.016044+00:00</update_date>
             <experimental>True</experimental>
             <deprecated>False</deprecated>
             <tracker><![CDATA[]]></tracker>
