@@ -1,6 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
     <plugins>
-        <pyqgis_plugin name="Checklist checker" version="0.3.2">
+        <pyqgis_plugin name="Checklist checker" version="0.4.0">
             <description><![CDATA[]]></description>
             <about><![CDATA[# QGIS Checklist checker
 
@@ -51,14 +51,14 @@ in accordance with their [license]
 [Font Awesome]: https://fontawesome.com/
 [license]: https://fontawesome.com/license
 ]]></about>
-            <version>0.3.2</version>
+            <version>0.4.0</version>
             <qgis_minimum_version>3.10</qgis_minimum_version>
             <homepage><![CDATA[https://github.com/kartoza/qgis_checklist_checker]]></homepage>
             <file_name>checklist_checker.zip</file_name>
             <icon>../resources/icon.png</icon>
             <author_name><![CDATA[Ricardo Garcia Silva / Kartoza]]></author_name>
             <download_url>https://kartoza.github.io/qgis_checklist_checker/repo/checklist_checker.zip</download_url>
-            <update_date>2020-06-24 17:05:14.090643+00:00</update_date>
+            <update_date>2020-06-25 16:18:57.634545+00:00</update_date>
             <experimental>True</experimental>
             <deprecated>False</deprecated>
             <tracker><![CDATA[]]></tracker>
