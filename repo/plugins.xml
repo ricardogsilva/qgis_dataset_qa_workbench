@@ -1,17 +1,17 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
     <plugins>
-        <pyqgis_plugin name="Dataset QA Workbench" version="0.5.3">
+        <pyqgis_plugin name="Dataset QA Workbench" version="0.5.4">
             <description><![CDATA[A QGIS3 plugin for assisting in dataset quality assurance workflows.]]></description>
             <about><![CDATA[This plugin allows loading checklists with steps that should be verified when doing dataset quality assurance (QA).
 Checklist items can be automated by using QGIS Processing algorithms]]></about>
-            <version>0.5.3</version>
+            <version>0.5.4</version>
             <qgis_minimum_version>3.10</qgis_minimum_version>
             <homepage><![CDATA[https://github.com/kartoza/qgis_dataset_qa_workbench]]></homepage>
             <file_name>dataset_qa_workbench.zip</file_name>
             <icon>../resources/icon.png</icon>
             <author_name><![CDATA[Ricardo Garcia Silva / Kartoza]]></author_name>
             <download_url>https://kartoza.github.io/qgis_dataset_qa_workbench/repo/dataset_qa_workbench.zip</download_url>
-            <update_date>2020-07-01 12:15:29.682706+00:00</update_date>
+            <update_date>2020-07-08 14:05:14.956731+00:00</update_date>
             <experimental>True</experimental>
             <deprecated>False</deprecated>
             <tracker><![CDATA[https://github.com/kartoza/qgis_dataset_qa_workbench/issues]]></tracker>
